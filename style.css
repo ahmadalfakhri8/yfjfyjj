@@ -1,0 +1,80 @@
+html {
+    background-color: white;
+}
+
+.asu {
+    display:flex;
+    align-items: center;
+}
+h1 {
+    color: black;  
+    
+    height: 50px;    
+
+}
+
+b {
+    color: blue;
+}
+
+.header {   
+    height: 100px;
+    border-radius: 10px;
+}
+
+img {
+    height: 300px;
+    border-radius: 100%;
+    border: 5px solid blue;
+    
+
+}
+
+.content {
+    background-color: grey;
+    padding: 20px;
+    margin: 15px;
+    align-content: 20px;
+}
+
+a {
+    position: relative;
+    left: 400px;
+    border: 2px solid blue;
+    border-radius: 100px;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    background-color: blue ;
+}
+
+.Nama {
+    background-color: grey;
+    padding: 10px;
+    align-content: 12px;
+}
+
+.kucing {
+    
+    margin-left: 10px;
+}
+
+h3 {
+    margin-top: -20px;
+}
+
+.jawa {
+    background-color: grey;
+    text-align: center;
+    color: black;
+    padding: 10px;
+    justify-content: center;
+    display: grid;
+}
+
+p {
+  text-align: justify;
+}
